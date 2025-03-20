@@ -6,10 +6,6 @@
 - 🔧 Proficient in Java, Python, HTML, CSS, and more, continuously honing my skills through project-based learning and certifications (AWS Cloud Operations, Cybersecurity Fundamentals, and others)<br>
 - 🌐 Connect with me on [LinkedIn](https://linkedin.com/in/ajith-n-bdcu1160) | [GitHub](https://github.com/ajith04-n) | [LeetCode](https://leetcode.com/u/ajithn_)<br>
 
-# 💫 About Me:
-Hi, I'm AJITH N ✨<br>🎓 Computer Science and Engineering student at V.S.B Engineering College, Karur, Tamil Nadu<br>💻 Passionate about Full-Stack Development, Cloud Computing, AI/ML, and Cybersecurity—with hands-on experience through internships at Infosys Springboard,YBI Foundations, AICTE internships collobrated with IBM and Microsoft/SAP.<br>🚀 Developed projects like a Food Ordering App, AI-Powered Health Assistant, Steganography tool, and a Handwritten Digit Recognition system<br>🔧 Proficient in Java, Python, HTML, CSS, and more, continuously honing my skills through project-based learning and certifications (AWS Cloud Operations, Cybersecurity Fundamentals, and others)<br>🌐 Connect with me on LinkedIn | GitHub | LeetCode
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ajithn_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AJITH N) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajith04n@gmail.com) 
 
